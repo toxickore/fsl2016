@@ -1,3 +1,3 @@
 service { 'apache2':
-  ensure => 'running',
+  ensure => 'stopped',
 }
